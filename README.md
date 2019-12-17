@@ -1,13 +1,13 @@
 # Caterpillar bulldozer
 3D printed readio controlled bulldozer, 2 feet long
 
-
+License: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 ![alt text](https://github.com/pstimpel/caterpillarbulldozer/raw/master/media/fullfront.PNG "In all its glory")
 
 ## What's the story?
 
-I run my hobby 3d printing for 20 months. Yes, I am a noob. Along the way I looked for a software to do my CAD, and found Fusion 360 from Autodesk. So, I had to learn Fusion. Youtube offers great ressources, most important there is the AFusion channel run by Autodesk (https://www.youtube.com/user/AutodeskFusion360). There is a bunch of lovely people, and if I would have to name a few Brad, Aaron and Angelo helped me most with their tips and tricks. 
+I run my hobby 3d printing for 20 months. Yes, I am a noob. Along the way I looked for a software to do my CAD, and found Fusion 360 from Autodesk. So, I had to learn Fusion. Youtube offers great ressources, most important there is the Fusion 360 channel run by Autodesk (https://www.youtube.com/user/AutodeskFusion360). There is a bunch of lovely people, and if I would have to name a few Brad, Aaron and Angelo helped me most with their tips and tricks. 
 
 However, one day - I was finishing my illuminated death star (https://www.prusaprinters.org/prints/5661-death-star-illuminated-mood-lamp-death-star ), I was looking for a thing taking more than a few days. Something to be my project for the winter. And, I was keen to create something running on tracks. Now I dislike building replicas of war machinery, so a tank was no solution to me. 
 
