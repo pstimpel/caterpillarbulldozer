@@ -13,15 +13,15 @@ However, one day - I was finishing my illuminated death star (https://www.prusap
 
 ## A bulldozer!
 
-I was using my favorite search engine duck duck go, and found Caterpillar as a big brand in the bolldozer manufacturers community. I sat down and thought what to do, and came up with these topics:
+I was using my favorite search engine duck duck go, and found Caterpillar as a big brand in the bulldozer manufacturers community. I sat down and thought what to do, and came up with these topics:
 
 - no real replica, more a free style model of a bulldozer
 - dimensions? who cares!
 - radio controlled, and not steared by a gearbox, but two motors (I liked the challenge of programming my radio control)
-- the blade at the fron should move up and down by servo motors
+- the blade at the front should move up and down by servo motors
 
 But how the f*** could I achieve these goals? I decided to create a gearbox first, add the motors to a motor stand, so I could test if running two independent tracks by an own motor each would be a cool thing. 
 
-And what to tell: doing gears is easy enough in Fusion. I added some bearings, adjusted the tolerances, and had a woring gearbox a few hours later. I mirrored it, added some dirty casing around, and created a design for the tracks.
+And what to tell: doing gears is easy enough in Fusion. I added some bearings, adjusted the tolerances, and had a working gearbox a few hours later. I mirrored it, added some dirty casing around, and created a design for the tracks.
 
 Stearing two tracks having a motor each was not as easy as I thought. But the guys at (https://openrcforums.com) helped out, so I got my radio control running quite soon. 
