@@ -16,7 +16,10 @@ https://github.com/pstimpel/caterpillarbulldozer/
 
 - Thingiverse: t.b.d.
 - Prusaprinters.org: t.b.d.
+- Pinshape: t.b.d.
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/pU6fe7RiBuI/0.jpg)](https://www.youtube.com/watch?v=pU6fe7RiBuI)
+ 
 
 ![alt text](https://github.com/pstimpel/caterpillarbulldozer/raw/master/media/fullfront.PNG "In all its glory")
 
