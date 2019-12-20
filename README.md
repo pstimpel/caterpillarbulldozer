@@ -14,9 +14,9 @@ https://github.com/pstimpel/caterpillarbulldozer/
 
 ### Other ressources
 
-- Thingiverse: t.b.d.
-- Prusaprinters.org: t.b.d.
-- Pinshape: t.b.d.
+- Thingiverse: https://www.thingiverse.com/thing:4057714
+- Prusaprinters.org: https://www.prusaprinters.org/prints/15078-caterpillar-bulldozer-rc
+- Pinshape: https://pinshape.com/items/57510-3d-printed-caterpillar-bulldozer-rc
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/pU6fe7RiBuI/0.jpg)](https://www.youtube.com/watch?v=pU6fe7RiBuI)
  
@@ -89,6 +89,7 @@ I was using filament from my favorite supplier https://dasfilament.de. The print
 - 2 spools black
 - 1 spool anthracite
 - 1 spool silver
+- 1 spool white
 
 Numbers are valid for printing in 0.3 layer height, using 3 shells horizontally and vertically, 10% cubic infill (except the gears and axles, I used 50% cubic infill here).
 
