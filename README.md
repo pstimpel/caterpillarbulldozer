@@ -97,6 +97,8 @@ I was taking care not to need any support. I achieved this goal, except for very
 
 The stls are not in their orientation for hassle free printing, I'm sorry. You do need to make this yourself in your slicer.
 
+**Update upon user request**: If you find 3mf files to be more convinient to print, you might want to look at the folder "3mf-200x250". It contains 59 3mf-files. The orientation of the parts to print is set there already, also the numbers of parts to print is the right one already. To use these files your slicer has to support 3mf. Each of these files contains a full organized print bed, made for print beds equal to or larger than 200x250mm in dimension. Each filename is led by a number, which represents the order you should print the files. It contains as well an information for the filament color to use. "nocolor" means you can use a color of your choice since the files are hidden inside your bulldozer. 
+
 ### Candy
 
 The build will take some time, not to talk about the 200 hours of printing. This means, it will be nerve-wracking :). Get some good stock of candy to please yourself once you enter mentally strange situations. I can tell you: you will need it!
@@ -200,7 +202,7 @@ On top, set CH4 bound to ELE, and CH5 to RUD. CH4 and CH5 will connect to our Ar
 
 **Important**: Write down how you connected your ESCs to witch motor. If you push "forward", both axles have to turn forwards. If not, switch the connection between motor and ESC. Now push "forward" and "left". The left axle should go slower or stop completely, while the right axle turns forward. If it is the other way, just flip ESCs and restart this test. If you push backwards and left, the left axle should stop again, while the right axle turns backward. Check what happens if you "turn right". Do not go any further until you finished all this with a success!
 
-Now print all parts from "LowerChassis". Print "InnerSupportLeft" and "InnerSupportLeft" twice each. The numbers are ordered from front to back. Mount your assembled gearbox to the bottom using the support pieces. Use "InnerSupport..." to keep the bottom parts together. Add the rearaxles and their bearingholders. Do not forget to add the bearings of type 6904, 2 on each axle. Add the 6700 bearings to the outer end of both Axles "D", and the "Gear2AxleD-5edges" as well. Mount the "LowerChassis..." parts left and right. These keep all the other parts and axles in place. Add stability by making use of "InnerSupportLeft" and "InnerSupportRight".
+Now print all parts from "LowerChassis". Print "InnerSupportLeft" and "InnerSupportRight" twice each. The numbers are ordered from front to back. Mount your assembled gearbox to the bottom using the support pieces. Use "InnerSupport..." to keep the bottom parts together. Add the rearaxles and their bearingholders. Do not forget to add the bearings of type 6904, 2 on each axle. Add the 6700 bearings to the outer end of both Axles "D", and the "Gear2AxleD-5edges" as well. Mount the "LowerChassis..." parts left and right. These keep all the other parts and axles in place. Add stability by making use of "InnerSupportLeft" and "InnerSupportRight".
 
 ![alt text](https://github.com/pstimpel/caterpillarbulldozer/raw/master/media/housingbottom1.PNG "Lower Chassis 1")
 
