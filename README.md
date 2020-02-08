@@ -196,7 +196,7 @@ Channel 1 connected to left motor/esc, channel 2 connected to right motor/esc
 
 Check this out for more info (https://openrcforums.com/forum/viewtopic.php?f=5&t=12296), and kudos to the helpful gents over there.
 
-And while we are at it, set CH 3 and CH6 both to P1, which will do the blade servo control. If you dislike going for lights and buzzer, you set CH3 and CH4 to P1. 
+And while we are at it, set CH 3 and CH6 both to P1, which will do the blade servo control.  
 
 On top, set CH4 bound to ELE, and CH5 to RUD. CH4 and CH5 will connect to our Arduino for controling the LEDs and buzzer. If you dislike going for lights and buzzer, you can skip this last step completely. 
 
